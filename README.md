@@ -24,7 +24,7 @@ Flutter instalado
 Dependências listadas no arquivo `pubspec.yaml`
 
 Clone este repositório
-`https://github.com/HeryckPeres/Calculadora-IMC-Simples.git`
+`https://github.com/HeryckPeres/Calculadora-IMC-Simples-Flutter.git`
 
 Navegue até o diretório do projeto
 `cd calculadora_imc`
