@@ -23,7 +23,7 @@ Flutter instalado
 Dependências listadas no arquivo `pubspec.yaml`
 
 Clone este repositório
-`...`
+`https://github.com/HeryckPeres/Calculadora-IMC-Simples.git`
 
 Navegue até o diretório do projeto
 `cd contador_de_pessoas`
