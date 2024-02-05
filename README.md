@@ -9,6 +9,7 @@ Este projeto consiste em uma aplicação móvel desenvolvida em Flutter para cal
 ## Captura de Tela
 
 
+![imc](https://github.com/HeryckPeres/Calculadora-IMC-Simples/assets/54678836/5cf249d8-7d3e-4284-8d8b-38adf8fe07be)
 
 
 ## Funcionalidades
