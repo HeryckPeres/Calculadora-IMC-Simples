@@ -26,16 +26,18 @@ Clone este repositório
 `https://github.com/HeryckPeres/Calculadora-IMC-Simples.git`
 
 Navegue até o diretório do projeto
-`cd contador_de_pessoas`
+`cd calculadora_imc`
 
 Execute o aplicativo
 `flutter run`
 
 ## Uso
 
-- Toque no campo de texto, escreva sua tarefa e pressione o botão "+" para adicioná-la à lista.
-- Arraste a tarefa para o lado e toque no ícone de lixeira para excluí-la.
-- Limpe todas as tarefas de uma vez.
+- Toque no campo de texto "Peso (KG)" e insira seu peso em quilogramas.
+- Toque no campo de texto "Altura (cm)" e Insira sua altura em centímetros.
+- Após inserir seus dados, toque no botão "Calcular"
+- O aplicativo exibirá uma mensagem indicando a condição de peso com base no Índice de Massa Corporal (IMC) calculado.
+- Toque no ícone de atualização na barra de navegação para redefinir os campos e iniciar uma nova entrada.
 
 
 
